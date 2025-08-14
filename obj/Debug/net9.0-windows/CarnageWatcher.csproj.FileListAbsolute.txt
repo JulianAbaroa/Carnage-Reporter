@@ -28,3 +28,12 @@ C:\Users\maste\OneDrive\Documents\Halo\CarnageWatcher\obj\Debug\net9.0-windows\C
 C:\Users\maste\OneDrive\Documents\Halo\CarnageWatcher\obj\Debug\net9.0-windows\ref\CarnageWatcher.dll
 C:\Users\maste\OneDrive\Documents\Halo\CarnageWatcher\obj\Debug\net9.0-windows\CarnageWatcher.CarnageWatcher.resources
 C:\Users\maste\OneDrive\Documents\Halo\CarnageWatcher\obj\Debug\net9.0-windows\CarnageWatcher.csproj.GenerateResource.cache
+C:\Users\maste\OneDrive\Documents\Halo\CarnageWatcher\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\maste\OneDrive\Documents\Halo\CarnageWatcher\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\maste\OneDrive\Documents\Halo\CarnageWatcher\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\maste\OneDrive\Documents\Halo\CarnageWatcher\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\maste\OneDrive\Documents\Halo\CarnageWatcher\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\maste\OneDrive\Documents\Halo\CarnageWatcher\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\maste\OneDrive\Documents\Halo\CarnageWatcher\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\maste\OneDrive\Documents\Halo\CarnageWatcher\bin\Debug\net9.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\maste\OneDrive\Documents\Halo\CarnageWatcher\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll

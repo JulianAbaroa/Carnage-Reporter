@@ -1,5 +1,7 @@
 using System.Net.Http.Headers;
 
+namespace CarnageWatcher;
+
 public class DiscordWebhookUploader
 {
     private readonly string _webhookUrl;

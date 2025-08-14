@@ -1,0 +1,54 @@
+## Archivos de compilación
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+out/
+
+## Configuración de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Archivos de paquetes
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.vsix
+*.psess
+*.vsp
+*.vspx
+
+## Archivos temporales y cache
+*.tmp
+*.temp
+*.log
+*.tlog
+*.pidb
+*.svclog
+*.scc
+
+## Archivos de backups
+*.bak
+*.backup
+*.old
+
+## Archivos de publicación
+*.Publish.xml
+publish/
+
+## Configuración local de Rider/Resharper
+.idea/
+*.DotSettings.user
+
+## Archivos generados por Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Otros
+*.pdb
+_ReSharper*/

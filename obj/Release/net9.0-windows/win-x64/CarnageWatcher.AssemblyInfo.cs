@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarnageWatcher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+207a410bb4866683d7807af772152f521ba7a709")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29487389f042aac2849af2db162cafbec27d6dd8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarnageWatcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarnageWatcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

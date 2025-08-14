@@ -13,6 +13,9 @@ public partial class CarnageWatcher : Form
     private readonly Label _lblStatus;
     private readonly TextBox _txtLog;
 
+    private readonly string _userName = string.Empty;
+    private readonly string _discordWebhookLink = string.Empty;
+
     private void SetIcon()
     {
         var assembly = Assembly.GetExecutingAssembly();
@@ -31,6 +34,11 @@ public partial class CarnageWatcher : Form
     {
         InitializeComponent();
         SetIcon();
+
+        var config = ConfigLoader.Load()!;
+
+        _userName = config.UserName!;
+        _discordWebhookLink = config.DiscordWebhookLink!;
 
         _lblStatus = new Label
         {
@@ -116,13 +124,13 @@ public partial class CarnageWatcher : Form
             await Task.Delay(500);
 
             string timeStamp = DateTime.Now.ToString("yyyyMMdd_HHmmss");
-            string tempFile = Path.Combine(Path.GetTempPath(), $"Carnage_{timeStamp}.xml");
+            string tempFile = Path.Combine(Path.GetTempPath(), $"CarnageReport_{_userName}_{timeStamp}.xml");
             File.Copy(_fileToWatch!, tempFile, true);
             Log($"Copied to temp: {tempFile}");
 
             SetStatus("Uploading");
 
-            var uploader = new DiscordWebhookUploader("https://discordapp.com/api/webhooks/1405342667923263651/_wN9N0WGp37Unw3sYodtIRJsJcHOYTbCWqyOstkISdSjTJk-dMFC4XbhVdH1BoMkwUZm");
+            var uploader = new DiscordWebhookUploader(_discordWebhookLink);
             bool Success = await uploader.SendFileAsync(tempFile);
 
             if (Success)
