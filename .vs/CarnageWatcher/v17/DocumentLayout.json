@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maste\\OneDrive\\Documents\\Halo\\CarnageWatcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93EE08F8-631A-1FB2-12FB-9D067CDFF6C1}|CarnageWatcher.csproj|c:\\users\\maste\\onedrive\\documents\\halo\\carnagewatcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EE08F8-631A-1FB2-12FB-9D067CDFF6C1}|CarnageWatcher.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EE08F8-631A-1FB2-12FB-9D067CDFF6C1}|CarnageWatcher.csproj|c:\\users\\maste\\onedrive\\documents\\halo\\carnagewatcher\\carnagewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93EE08F8-631A-1FB2-12FB-9D067CDFF6C1}|CarnageWatcher.csproj|solutionrelative:carnagewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EE08F8-631A-1FB2-12FB-9D067CDFF6C1}|CarnageWatcher.csproj|c:\\users\\maste\\onedrive\\documents\\halo\\carnagewatcher\\carnagewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EE08F8-631A-1FB2-12FB-9D067CDFF6C1}|CarnageWatcher.csproj|solutionrelative:carnagewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EE08F8-631A-1FB2-12FB-9D067CDFF6C1}|CarnageWatcher.csproj|c:\\users\\maste\\onedrive\\documents\\halo\\carnagewatcher\\carnagewatcher.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{93EE08F8-631A-1FB2-12FB-9D067CDFF6C1}|CarnageWatcher.csproj|solutionrelative:carnagewatcher.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EE08F8-631A-1FB2-12FB-9D067CDFF6C1}|CarnageWatcher.csproj|c:\\users\\maste\\onedrive\\documents\\halo\\carnagewatcher\\discordwebhookuploader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EE08F8-631A-1FB2-12FB-9D067CDFF6C1}|CarnageWatcher.csproj|solutionrelative:discordwebhookuploader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarnageWatcher.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\OneDrive\\Documents\\Halo\\CarnageWatcher\\CarnageWatcher.cs",
+              "RelativeDocumentMoniker": "CarnageWatcher.cs",
+              "ToolTip": "C:\\Users\\maste\\OneDrive\\Documents\\Halo\\CarnageWatcher\\CarnageWatcher.cs",
+              "RelativeToolTip": "CarnageWatcher.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T04:16:02.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\OneDrive\\Documents\\Halo\\CarnageWatcher\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maste\\OneDrive\\Documents\\Halo\\CarnageWatcher\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T04:15:54.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarnageWatcher.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maste\\OneDrive\\Documents\\Halo\\CarnageWatcher\\CarnageWatcher.cs",
+              "RelativeDocumentMoniker": "CarnageWatcher.cs",
+              "ToolTip": "C:\\Users\\maste\\OneDrive\\Documents\\Halo\\CarnageWatcher\\CarnageWatcher.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CarnageWatcher.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T04:15:40.353Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiscordWebhookUploader.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\OneDrive\\Documents\\Halo\\CarnageWatcher\\DiscordWebhookUploader.cs",
+              "RelativeDocumentMoniker": "DiscordWebhookUploader.cs",
+              "ToolTip": "C:\\Users\\maste\\OneDrive\\Documents\\Halo\\CarnageWatcher\\DiscordWebhookUploader.cs",
+              "RelativeToolTip": "DiscordWebhookUploader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T04:15:20.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarnageWatcher",
+              "DocumentMoniker": "C:\\Users\\maste\\OneDrive\\Documents\\Halo\\CarnageWatcher\\CarnageWatcher.csproj",
+              "RelativeDocumentMoniker": "CarnageWatcher.csproj",
+              "ToolTip": "C:\\Users\\maste\\OneDrive\\Documents\\Halo\\CarnageWatcher\\CarnageWatcher.csproj",
+              "RelativeToolTip": "CarnageWatcher.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-14T04:12:06.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

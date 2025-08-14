@@ -1,0 +1,2 @@
+C:\Users\maste\OneDrive\Documents\Halo\CarnageWatcher\bin\Release\net9.0-windows\win-x64\publish\CarnageWatcher.pdb
+C:\Users\maste\OneDrive\Documents\Halo\CarnageWatcher\bin\Release\net9.0-windows\win-x64\publish\CarnageWatcher.exe

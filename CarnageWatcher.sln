@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarnageWatcher", "CarnageWatcher.csproj", "{93EE08F8-631A-1FB2-12FB-9D067CDFF6C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93EE08F8-631A-1FB2-12FB-9D067CDFF6C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EE08F8-631A-1FB2-12FB-9D067CDFF6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EE08F8-631A-1FB2-12FB-9D067CDFF6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EE08F8-631A-1FB2-12FB-9D067CDFF6C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D61CF6F9-C891-4022-87B3-A3937A290727}
+	EndGlobalSection
+EndGlobal
